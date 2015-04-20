@@ -1,0 +1,17 @@
+﻿Build started 20/3/2015 11:29:50 PM.
+     1>Project "C:\Users\Jiajie\Desktop\New Lab 3\New Lab 3\Lab 3\Lab 3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\Lab 3.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Lab 3.vcxproj -> C:\Users\Jiajie\Desktop\New Lab 3\New Lab 3\Release\Lab 3.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Lab 3.unsuccessfulbuild".
+         Touching "Release\Lab 3.lastbuildstate".
+     1>Done Building Project "C:\Users\Jiajie\Desktop\New Lab 3\New Lab 3\Lab 3\Lab 3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
